@@ -87,5 +87,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the [MIT License](LICENSE).
 ## Author
-1. -[Dovine K.](https://Sophinius-comp-os.github.io)
-2. -[Dericocity](https://github.com/dericocity)
+1. -[Dev_Koech](https://Sophinius-comp-os.github.io)
+   
